@@ -1,0 +1,23 @@
+{
+  "api_credentials_configured": false,
+  "component_counts": {
+    "public_page": 1
+  },
+  "component_digests": {
+    "public_page": "625696c3949ce9e54a263d042d06ebe43fddd5b40b1568fbbc9fb535f0536873"
+  },
+  "fingerprint": "af9d502e0893ab297de2121fb250d79802e7f96fd0e43694b2bef4e0ea762804",
+  "last_changed_iso": "2026-05-29T10:14:55Z",
+  "last_checked_iso": "2026-05-29T10:14:55Z",
+  "monitoring_mode": "public_page_only",
+  "record_ids": {
+    "public_page": [
+      "625696c3949ce9e54a263d042d06ebe43fddd5b40b1568fbbc9fb535f0536873"
+    ]
+  },
+  "target": {
+    "fei_number": "3013702557",
+    "name": "FDA Data Dashboard Firm Profile",
+    "url": "https://datadashboard.fda.gov/oii/firmprofile.htm?FEIi=3013702557&/identity/3013702557"
+  }
+}
